@@ -5566,19 +5566,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\souru\\.nuget\\packages\\": {}
+    "D:\\Users\\jakub.pietrusiak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\souru\\RiderProjects\\LabolatoriumASP.NET\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "D:\\Users\\jakub.pietrusiak\\RiderProjects\\Labolatorium2\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\souru\\RiderProjects\\LabolatoriumASP.NET\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\souru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\souru\\RiderProjects\\LabolatoriumASP.NET\\WebApp\\obj\\",
+      "projectPath": "D:\\Users\\jakub.pietrusiak\\RiderProjects\\Labolatorium2\\WebApp\\WebApp.csproj",
+      "packagesPath": "D:\\Users\\jakub.pietrusiak\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\jakub.pietrusiak\\RiderProjects\\Labolatorium2\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\souru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Users\\jakub.pietrusiak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5598,11 +5598,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5633,7 +5628,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
