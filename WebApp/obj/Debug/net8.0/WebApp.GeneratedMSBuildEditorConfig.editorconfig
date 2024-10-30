@@ -17,75 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp
 build_property.RootNamespace = WebApp
-build_property.ProjectDir = D:\Users\jakub.pietrusiak\RiderProjects\Labolatorium2\WebApp\
+build_property.ProjectDir = C:\Users\DELL_1\RiderProjects\Labolatorium2\WebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Users\jakub.pietrusiak\RiderProjects\Labolatorium2\WebApp
+build_property.MSBuildProjectDirectory = C:\Users\DELL_1\RiderProjects\Labolatorium2\WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Calculator/Form.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Calculator/Form.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Calculator/Result.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Calculator/Result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxSZXN1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Contact/Add.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Contact/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Contact/Details.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Contact/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Contact/Index.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Contact/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Home/About.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Home/Age.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Home/Age.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Home/Calculator.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Home/Calculator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxjdWxhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Home/Index.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Home/Privacy.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Shared/CalculatorError.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Shared/CalculatorError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENhbGN1bGF0b3JFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Shared/Error.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/_ViewImports.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/_ViewStart.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/jakub.pietrusiak/RiderProjects/Labolatorium2/WebApp/Views/Shared/_Layout.cshtml]
+[C:/Users/DELL_1/RiderProjects/Labolatorium2/WebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7882z672yd
